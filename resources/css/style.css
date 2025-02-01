@@ -1,0 +1,56 @@
+@font-face {
+    font-family: "Sauce Tomato";
+    src: url(../fonts/sauce-tomato/Sauce_Tomato.woff2) format(woff2),
+         url(../fonts/sauce-tomato/Sauce_Tomato.woff) format(woff);
+}
+
+body {
+    max-width: 1200px;
+    margin: auto;
+    font-family: "Sauce Tomato";
+    font-size: 18px;
+    background-color: black;
+    color: seashell;
+    text-align: center;
+}
+
+.page-title {
+    font-size: 1em;
+}
+
+#comming-soon {
+    color: aquamarine;
+    text-decoration-line: underline;
+    text-underline-offset: 0.4em;
+}
+
+.travel-guide {
+    padding: 2em;
+}
+
+.travel-guide h4{
+    font-family: Georgia, Times, serif;
+    font-weight: bold;
+}
+
+.travel-guide img {
+    border-radius: 15px;
+}
+
+#iphone-and-android {
+  
+}
+
+#comming-soon-footer {
+    color: aquamarine;
+    text-decoration-line: underline;
+    text-underline-offset: 0.4em;
+    padding: 1em 0em 0.5em;
+}
+
+footer {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: right;
+    margin-right: 10px;
+    color: gray;
+}
